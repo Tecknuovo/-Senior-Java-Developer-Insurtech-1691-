@@ -14,10 +14,11 @@ There are two positions available for Senior Java developers (ideally with a kee
 
 # Project examples: 
 
--Lots of greenfield development to be done with some interesting challenges around design of an event driven architecture.
--Helping the team achieve their goal of continuous delivery they are about 80% of the way there with just the hard bits left to deliver according to the CTO. 
--The chance to do some full stack development work with a bit of JavaScript if you are interested in that aspect. 
--Working on problems at scale. 
+ -  Lots of greenfield development to be done with some interesting challenges around design of an event driven architecture.
+ -  Helping the team achieve their goal of continuous delivery they are about 80% of the way there with just the hard bits left to deliver according to the CTO. 
+ -  The chance to do some full stack development work with a bit of JavaScript if you are interested in that aspect. 
+  -  Working on problems at scale. 
+
 
 # What experience is required?
 
